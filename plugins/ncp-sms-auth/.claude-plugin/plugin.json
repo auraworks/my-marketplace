@@ -1,0 +1,9 @@
+{
+    "name":"ncp-sms-auth",
+    "description":"naver cloud sms auth with supabase",
+    "version":"1.0.0",  
+    "author":{
+        "name":"LJJ"
+    }
+
+}

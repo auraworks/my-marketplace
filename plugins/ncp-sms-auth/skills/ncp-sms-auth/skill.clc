@@ -1,0 +1,6 @@
+{
+  "name": "ncp-sms-auth",
+  "version": "1.0.0",
+  "description": "네이버 클라우드 플랫폼(Naver Cloud Platform, NCP) SENS를 이용한 SMS 문자 인증 시스템. Next.js 웹 애플리케이션에 휴대폰 번호 인증, OTP 코드 검증 기능 통합. 회원가입, 로그인, 본인확인, 2단계 인증(2FA)에 사용. NCP SENS API를 통한 SMS 발송, Supabase를 통한 인증번호 저장(3분 만료), Supabase MCP 자동 배포 지원, React 컴포넌트 포함. 키워드: 네이버클라우드, 문자인증, 휴대폰인증, 본인인증, SMS verification, phone authentication, OTP, SENS.",
+  "main": "SKILL.md"
+}

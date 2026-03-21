@@ -1,0 +1,19 @@
+{
+ "name":"auraworks-marketplace"   ,
+ "owner":{
+    "name":"auraworks",
+    "email":"ljj3347@auraworks.kr"
+ },
+ "plugins":[
+    {
+    "name":"ncp-sms-auth",
+    "source":"./plugins/ncp-sms-auth",
+    "description":"naver cloud sms auth with supabase",
+    "version":"1.0.0",  
+    "author":{
+        "name":"LJJ"
+    }
+
+}
+ ]
+}
