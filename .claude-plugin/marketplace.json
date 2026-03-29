@@ -1,19 +1,27 @@
 {
- "name":"auraworks-marketplace"   ,
- "owner":{
-    "name":"auraworks",
-    "email":"ljj3347@auraworks.kr"
- },
- "plugins":[
+  "name": "auraworks-marketplace",
+  "owner": {
+    "name": "auraworks",
+    "email": "ljj3347@auraworks.kr"
+  },
+  "plugins": [
     {
-    "name":"ncp-sms-auth",
-    "source":"./plugins/ncp-sms-auth",
-    "description":"naver cloud sms auth with supabase",
-    "version":"1.0.0",  
-    "author":{
-        "name":"LJJ"
+      "name": "ncp-sms-auth",
+      "source": "./plugins/ncp-sms-auth",
+      "description": "naver cloud sms auth with supabase",
+      "version": "1.0.0",
+      "author": {
+        "name": "LJJ"
+      }
+    },
+    {
+      "name": "setup-portone-identity",
+      "source": "./plugins/setup-portone-identity",
+      "description": "포트원(PortOne) V2 KG이니시스 통합인증 본인인증 구현. Next.js App Router 프로젝트에 포트원 V2 SDK와 MCP를 활용한 KG이니시스 본인인증 통합 자동화. 클라이언트 SDK 인증 요청, 서버 API 결과 검증, 인증 완료 페이지 생성, 환경변수 설정까지 전체 플로우 지원.",
+      "version": "1.0.0",
+      "author": {
+        "name": "LJJ"
+      }
     }
-
-}
- ]
+  ]
 }
