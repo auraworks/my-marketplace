@@ -117,7 +117,7 @@ NCP Console에서 다음을 준비하세요:
 `.env.local` 파일을 생성하고 NCP 및 Supabase 정보를 입력하세요:
 
 ```env
-NEXT_PUBLIC_NCP_ACCESS_KEY=ncp_iam_BPAMKR5rXOuhtuXIwRpM
+NEXT_PUBLIC_NCP_ACCESS_KEY=ncp_iam_...
 NEXT_PUBLIC_NCP_SECRET_KEY=ncp_iam_BPKMKRFvAVuAWbH8vmU9tLKroyehML3LFP
 NEXT_PUBLIC_NCP_SERVICE_ID=ncp:sms:kr:362312123301:binibot
 NEXT_PUBLIC_SUPABASE_URL=https://your-project.supabase.co

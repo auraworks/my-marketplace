@@ -161,7 +161,7 @@ This creates `supabase/functions/send-sms/index.ts`
 supabase login
 
 # Set secrets for the function
-supabase secrets set NCP_ACCESS_KEY=ncp_iam_BPAMKR5rXOuhtuXIwRpM
+supabase secrets set NCP_ACCESS_KEY=ncp_iam_...
 supabase secrets set NCP_SECRET_KEY=ncp_iam_BPKMKRFvAVuAWbH8vmU9tLKroyehML3LFP
 supabase secrets set NCP_SERVICE_ID=ncp:sms:kr:362312123301:binibot
 ```

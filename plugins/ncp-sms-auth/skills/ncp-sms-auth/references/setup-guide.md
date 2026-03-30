@@ -116,7 +116,7 @@ Create `.env.local` in Next.js project:
 
 ```env
 # NCP Configuration (obtained from NCP Console)
-NEXT_PUBLIC_NCP_ACCESS_KEY=ncp_iam_BPAMKR5rXOuhtuXIwRpM
+NEXT_PUBLIC_NCP_ACCESS_KEY=ncp_iam_...
 NEXT_PUBLIC_NCP_SECRET_KEY=ncp_iam_BPKMKRFvAVuAWbH8vmU9tLKroyehML3LFP
 NEXT_PUBLIC_NCP_SERVICE_ID=ncp:sms:kr:362312123301:binibot
 
