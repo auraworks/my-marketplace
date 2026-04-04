@@ -1,0 +1,8 @@
+{
+    "name": "cloudflare-stream",
+    "description": "Cloudflare Stream video upload and streaming service using FastAPI",
+    "version": "1.0.0",
+    "author": {
+        "name": "LJJ"
+    }
+}
