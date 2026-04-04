@@ -22,6 +22,15 @@
       "author": {
         "name": "LJJ"
       }
+    },
+    {
+      "name": "cloudflare-stream",
+      "source": "./plugins/cloudflare-stream",
+      "description": "Cloudflare Stream 동영상 업로드 및 HLS 스트리밍 FastAPI 서버. 파일/URL 업로드, 상태 확인, 목록 조회, 삭제 기능 포함. direct_upload URL 방식으로 multipart/form-data 업로드.",
+      "version": "1.0.0",
+      "author": {
+        "name": "LJJ"
+      }
     }
   ]
 }
